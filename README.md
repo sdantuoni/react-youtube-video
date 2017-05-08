@@ -35,10 +35,11 @@ __EXPLAIN USAGE HERE__
 ```
 var YoutubeVideo = require('react-youtube-video');
 
-<YoutubeVideo url="yotubeurl"/>
+<YoutubeVideo url="youtubeurl"/>
+
+```
 
 See all parameters in this url [https://developers.google.com/youtube/player_parameters](https://developers.google.com/youtube/player_parameters)
-```
 
 ### Properties
 
